@@ -82,7 +82,7 @@ export default function About() {
           lineHeight: '1.7',
           margin: '0 0 16px',
         }}>
-          NGIS is a software company with a straightforward goal: provide the next generation tools to markets that have been overlooked. We focus on simplifying and integrating data so information can be made instantly and assisted by A.I. (artificial intelligence).
+          NGIS is a software company with a straightforward goal: provide the next generation tools to markets that have been overlooked. We focus on simplifying and integrating data so information can be made instantly and conveniently so delayed reports is never an issue.
         </p>
       </div>
 
