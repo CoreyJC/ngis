@@ -74,7 +74,7 @@ export default function About() {
           lineHeight: '1.1',
           margin: '0 0 20px',
         }}>
-          We build for the industries nobody built for
+          We offer next generation solutions that simplify and improve information sharing.
         </h2>
         <p style={{
           fontSize: '17px',
@@ -82,15 +82,7 @@ export default function About() {
           lineHeight: '1.7',
           margin: '0 0 16px',
         }}>
-          NGIS is a small software company with a straightforward goal: build real tools for industries that have been overlooked. The kind still running on spreadsheets, whiteboards, and software from the late 90s.
-        </p>
-        <p style={{
-          fontSize: '17px',
-          color: '#64748b',
-          lineHeight: '1.7',
-          margin: 0,
-        }}>
-          We get into the actual workflow, figure out what's broken, and ship software that helps people do their jobs better. That's it.
+          NGIS is a software company with a straightforward goal: provide the next generation tools to markets that have been overlooked. We focus on simplifying and integrating data so information can be made instantly and assisted by A.I. (artificial intelligence).
         </p>
       </div>
 
