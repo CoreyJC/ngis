@@ -3,13 +3,13 @@ const products = [
     name: 'LogLedger',
     subtitle: 'LumberSoftware',
     description:
-      'Multi-tenant SaaS for the lumber industry. End-to-end inventory management for logs, green lumber, kiln dried, and millwork — with AI-assisted reporting built in.',
+      'Inventory management for lumber yards. Logs, green lumber, kiln dried, and millwork, with built-in reporting.',
     status: 'In Development',
     statusColor: '#f59e0b',
     statusBg: 'rgba(245, 158, 11, 0.1)',
     statusBorder: 'rgba(245, 158, 11, 0.25)',
     github: 'https://github.com/CoreyJC/LogLedger',
-    tags: ['SaaS', 'Multi-Tenant', 'AI Reports', 'Lumber Industry'],
+    tags: ['SaaS', 'Multi Tenant', 'Reporting', 'Lumber Industry'],
     icon: (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />
@@ -226,7 +226,7 @@ export default function Software() {
             lineHeight: '1.1',
             margin: '0 0 16px',
           }}>
-            Purpose-built products for real workflows
+            Software that fits the job
           </h2>
           <p style={{
             fontSize: '16px',
@@ -234,7 +234,7 @@ export default function Software() {
             lineHeight: '1.65',
             margin: 0,
           }}>
-            Each product is designed from the ground up for its industry — not a generic platform trying to be everything to everyone.
+            Each product is built for one industry from the ground up. Not a general platform stretched to fit.
           </p>
         </div>
 

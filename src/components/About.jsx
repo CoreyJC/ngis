@@ -8,8 +8,8 @@ export default function About() {
           <path d="M2 12l10 5 10-5" />
         </svg>
       ),
-      title: 'Industry-First',
-      desc: 'We go deep into specific verticals, learning the workflows before writing a single line of code.',
+      title: 'Industry First',
+      desc: 'We learn the industry first. Then we build.',
     },
     {
       icon: (
@@ -19,7 +19,7 @@ export default function About() {
         </svg>
       ),
       title: 'Enterprise Grade',
-      desc: 'Multi-tenant architecture, role-based access, and audit trails — built in from day one.',
+      desc: 'Multi tenant architecture, role based access, and audit trails. Built in from day one.',
     },
     {
       icon: (
@@ -27,8 +27,8 @@ export default function About() {
           <path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
         </svg>
       ),
-      title: 'AI-Augmented',
-      desc: 'Intelligent reporting and insights layered on top of solid operational foundations.',
+      title: 'AI Powered',
+      desc: 'Reporting and insights that actually make sense, built on top of solid operational data.',
     },
     {
       icon: (
@@ -37,7 +37,7 @@ export default function About() {
         </svg>
       ),
       title: 'Small & Focused',
-      desc: 'No bloated org charts. We move fast, stay lean, and ship software that actually works.',
+      desc: 'No bloated teams or endless meetings. Just a small group of people shipping software that works.',
     },
   ]
 
@@ -74,7 +74,7 @@ export default function About() {
           lineHeight: '1.1',
           margin: '0 0 20px',
         }}>
-          Built for industries that deserve better software
+          We build for the industries nobody built for
         </h2>
         <p style={{
           fontSize: '17px',
@@ -82,7 +82,7 @@ export default function About() {
           lineHeight: '1.7',
           margin: '0 0 16px',
         }}>
-          NGIS is a small but ambitious software company. We build enterprise-grade SaaS tools for industries that have been largely ignored by modern software — the ones still running on spreadsheets, whiteboards, and legacy systems from the 90s.
+          NGIS is a small software company with a straightforward goal: build real tools for industries that have been overlooked. The kind still running on spreadsheets, whiteboards, and software from the late 90s.
         </p>
         <p style={{
           fontSize: '17px',
@@ -90,7 +90,7 @@ export default function About() {
           lineHeight: '1.7',
           margin: 0,
         }}>
-          We believe every industry deserves purpose-built software. We embed ourselves in the workflow, understand the real pain, and ship tools that genuinely help people do their jobs.
+          We get into the actual workflow, figure out what's broken, and ship software that helps people do their jobs better. That's it.
         </p>
       </div>
 

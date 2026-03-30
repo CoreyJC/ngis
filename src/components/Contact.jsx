@@ -62,7 +62,7 @@ export default function Contact() {
             lineHeight: '1.1',
             margin: '0 0 16px',
           }}>
-            Let's build something together
+            Say hello
           </h2>
           <p style={{
             fontSize: '16px',
@@ -70,7 +70,7 @@ export default function Contact() {
             lineHeight: '1.65',
             margin: '0 0 40px',
           }}>
-            Whether you're in an industry that needs better software, want to partner, or just want to follow along — we'd love to hear from you.
+            If you're in an industry that needs better software, want to partner up, or just want to keep tabs on what we're building, reach out.
           </p>
 
           {/* Direct email */}

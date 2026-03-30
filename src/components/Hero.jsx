@@ -79,7 +79,7 @@ export default function Hero() {
             display: 'inline-block',
             boxShadow: '0 0 8px #2dd4bf',
           }} />
-          Enterprise Software Solutions
+          Enterprise Software
         </div>
 
         {/* Heading */}
@@ -118,7 +118,7 @@ export default function Hero() {
             fontWeight: '400',
           }}
         >
-          Enterprise software built for real industries.
+          Software built for the industries everyone else passed on.
         </p>
 
         {/* CTAs */}
